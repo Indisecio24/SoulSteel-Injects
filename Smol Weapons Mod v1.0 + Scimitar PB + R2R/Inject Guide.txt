@@ -1,0 +1,23 @@
+Smol Weapons Mod + Scimitar PB + Regulars to Relics - v1.0
+Injection Guide
+
+Hello! Thanks for choosing to download this mod!
+Things will be a bit technical, but follow this guide and you should be fine!
+
+- Part 1: Delete the old pack -
+
+Go into your storage settings from the main menu.
+
+Go into your cache files, and delete the "SoulSteel - gear" pack.
+
+- Part 2: Installing the mod -
+
+Download the "Smol Weapons Mod v1.0 + Scimitar PB + R2R.mcpack" file.
+
+Import it into your Minecraft Bedrock installation.
+
+- Part 3: Witness the magic -
+
+Pop in-game and see all your favourite weapons be smol and cute, the Poisoned Blade looking like the Scimitar, and regular armors be given extra flair!
+
+Enjoy!
