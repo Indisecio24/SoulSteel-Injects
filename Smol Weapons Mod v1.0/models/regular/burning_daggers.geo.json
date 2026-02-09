@@ -1,0 +1,52 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.noxcrew.fwo.burning_daggers",
+				"texture_width": 32,
+				"texture_height": 16,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "rightitem",
+					"pivot": [0, 24, -1],
+					"binding": "'rightitem'"
+				},
+				{
+					"name": "weapon",
+					"parent": "rightitem",
+					"pivot": [0.5, 24, -1],
+					"rotation": [0, 180, 0]
+				},
+				{
+					"name": "dagger",
+					"parent": "weapon",
+					"pivot": [0.5, 24.16943, -1.18372],
+					"rotation": [180, 0, 0],
+					"cubes": [
+						{"origin": [-0.5, 23.15, -4.7], "size": [2, 2, 5], "uv": [1, 1]},
+						{"origin": [-1, 22.65, 0.3], "size": [3, 3, 1], "uv": [23, 1]},
+						{"origin": [-1, 23.17229, -6.63248], "size": [3, 3, 3], "pivot": [0.5, 25.80366, -4.0011], "rotation": [45, 0, 0], "uv": [10, 0]}
+					]
+				},
+				{
+					"name": "blade_alph",
+					"parent": "dagger",
+					"pivot": [0, 19.9, -11.7],
+					"cubes": [
+						{"origin": [0.5, 22.15, -10.75], "size": [0, 4, 6], "pivot": [0.5, 24.15, -6.75], "rotation": [-45, 0, 0], "uv": [18, 0]},
+						{"origin": [0.5, 18.15, -12.75], "size": [0, 4, 6], "pivot": [0.5, 24.15, -6.75], "rotation": [-45, 0, 0], "uv": [2, 2]},
+						{"origin": [-0.5, 21.15, -4.7], "size": [0, 3, 2], "uv": [0, -2]},
+						{"origin": [1.5, 21.15, -4.7], "size": [0, 3, 2], "uv": [0, -2], "mirror": true},
+						{"origin": [1.5, 19.15, -4.7], "size": [0, 3, 2], "pivot": [0.5, 23.15, -3.7], "rotation": [0, 0, -180], "uv": [0, -2], "mirror": true},
+						{"origin": [-0.5, 19.15, -4.7], "size": [0, 3, 2], "pivot": [0.5, 23.15, -3.7], "rotation": [0, 0, -180], "uv": [0, -2]}
+					]
+				}
+			]
+		}
+	]
+}
