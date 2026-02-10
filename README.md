@@ -7,3 +7,5 @@ If you want a private inject (that is, only for yourself), I have a limit of up 
 ## List of Injects:
 ### Smol Weapons Mod - v1.0
 Makes every weapon smaller - will be updated when new weapons are released!
+### Regulars to Riches
+Makes Scholar's Robes, Demolition Duds, Ranger's Rags, Soldier's Armor and Explorer's Attire more stylish to bring them closer in vibe to the artifact armors.
